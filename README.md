@@ -31,22 +31,24 @@ Since the first number we will start with is the number at the beginning of the 
 
 ### 2. BIG-O ###
 
-Best case    : O(n)
-Average case : O(n^2)
-Worst case   : O(n^2)
+    Best case    : O(n)
+    Average case : O(n^2)
+    Worst case   : O(n^2)
 
 ### 3. TIME COMPLEXITY ###
-Average case: The number we are looking for is in the middle.
-Worst case: The number we are looking for is at the end.
-Best case: The number we are looking for is at the beginning.
+
+    Average case: The number we are looking for is in the middle.
+    Worst case: The number we are looking for is at the end.
+    Best case: The number we are looking for is at the beginning.
 
 ### 4. Which case will 18 be taken from after the series is sorted? Write. ###
-Average case -> [2, 6, 16, 18, 22, 27] 
+
+    Average case -> [2, 6, 16, 18, 22, 27] 
 
 ### [7,3,5,8,2,9,4,15,6] ###
 Write the first 4 steps of the array according to the Insertion Sort.
 
-First step: [7| , 3, 5, 8, 2, 9, 4, 15, 6]
-Second step: [3, 7| , 5, 8, 2, 9, 4, 15, 6]
-Third step: [3, 5, 7| , 8, 2, 9, 4, 15, 6]
-Fourth step: [3, 5, 7, 8| , 2, 9, 4, 15, 6]
+    First step: [7| , 3, 5, 8, 2, 9, 4, 15, 6]
+    Second step: [3, 7| , 5, 8, 2, 9, 4, 15, 6]
+    Third step: [3, 5, 7| , 8, 2, 9, 4, 15, 6]
+    Fourth step: [3, 5, 7, 8| , 2, 9, 4, 15, 6]
