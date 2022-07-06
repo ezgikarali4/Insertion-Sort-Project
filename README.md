@@ -45,7 +45,7 @@ Since the first number we will start with is the number at the beginning of the 
 
     Average case -> [2, 6, 16, 18, 22, 27] 
 
-### [7,3,5,8,2,9,4,15,6] ###
+### BONUS [7,3,5,8,2,9,4,15,6] ###
 Write the first 4 steps of the array according to the Insertion Sort.
 
     First step: [7| , 3, 5, 8, 2, 9, 4, 15, 6]
